@@ -1,0 +1,39 @@
+html,
+body {
+  align-items: center;
+  justify-content: center;
+  color: #f5c2e7;
+  display: flex;
+  font-family: "Maple Mono";
+
+  height: 100%;
+}
+
+.links {
+  float: right;
+  font-size: 22px;
+  padding-left: 20px;
+}
+.image {
+  float: left;
+  font-family: "Times New Roman";
+  width: 262px;
+}
+
+body {
+  background-color: #1e1e2e;
+}
+
+a {
+  color: #89b4f4;
+}
+
+a:focus,
+a:hover {
+  color: #89dceb;
+}
+
+img {
+  border: 3px solid #f5c2e7;
+  height: 256px;
+}
